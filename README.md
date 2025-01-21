@@ -1,5 +1,6 @@
 # Dar-es-Salaam-Air-Quality-Forecast
 Forecasting PM2.5 levels in Dar es Salaam using historical data.
+Link to Documentation on Approach advisably for Non Technical Audience https://medium.com/@abdulsalamibrahima017/dar-es-salaam-air-quality-forecasting-77cd3de85efc
 
 ### Air Quality Prediction Project Summary
 This project aims to predict PM2.5 levels in Dar es Salaam using historical air quality data. PM2.5 refers to particulate matter with a diameter of less than 2.5 micrometers, which can pose significant health risks.
